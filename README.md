@@ -8,6 +8,6 @@
 - [SVM](https://github.com/datawhalechina/Learning-community/blob/master/questions-docs/svm.md)
 - [贝叶斯](https://github.com/datawhalechina/Learning-community/blob/master/questions-docs/bayes.md)
 - [模型的比较与优化](https://github.com/datawhalechina/Learning-community/blob/master/questions-docs/comp_optim.md)
-- [模型的应用](https://github.com/datawhalechina/Learning-community/blob/master/questions-docs/application.md)
+- [应用开放题](https://github.com/datawhalechina/Learning-community/blob/master/questions-docs/application.md)
 - [数据结构与算法](https://github.com/datawhalechina/Learning-community/blob/master/questions-docs/algorithm.md)
 - [逻辑题](https://github.com/datawhalechina/Learning-community/blob/master/questions-docs/logic.md)
